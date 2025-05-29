@@ -5,5 +5,5 @@ alias gi='git init && git branch -m main'
 alias SETP='export PS1="\[\033[38;5;100m\T\] \[\033[38;5;87m\w\] \n\[\033[32m\$\] \[\033[0m\]"'
 alias npp='powershell.exe npp'
 
-alias bat='batcat --paging never'
+alias bat='bat --paging never'
 alias batc='bat -lc++'
